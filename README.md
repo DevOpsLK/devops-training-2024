@@ -1,4 +1,4 @@
-# devops-training-2024
+# DevOps Training Series by DevOps.lk
 Devops Sri Lanka Training Plan for 2024
 
 DevOps Training Plan:

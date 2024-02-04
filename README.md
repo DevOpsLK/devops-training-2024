@@ -8,7 +8,7 @@ DevOps Training Plan:
     Importance of collaboration between development and operations teams.
     Introduction to DevOps tools and their roles.
 
-    * Completed by @damithkothalawala on 2024-02-04 * [https://fb.watch/p-n9DZRwaj/]
+    * Completed by @damithkothalawala on 2024-02-04 * https://fb.watch/p-n9DZRwaj/
 
 3. Version Control:
 

@@ -8,55 +8,57 @@ DevOps Training Plan:
     Importance of collaboration between development and operations teams.
     Introduction to DevOps tools and their roles.
 
-2. Version Control:
+    * Completed by @damithkothalawala on 2024-02-04 -> https://fb.watch/p-n9DZRwaj/
+
+3. Version Control:
 
     Git fundamentals and branching strategies.
     GitHub or GitLab usage for collaboration.
     Integration of version control into the development workflow.
 
-3. Continuous Integration (CI):
+4. Continuous Integration (CI):
 
     Introduction to CI/CD concepts.
     Setting up a CI server (e.g., Jenkins, GitLab CI).
     Configuring CI pipelines for the project.
 
-4. Infrastructure as Code (IaC):
+5. Infrastructure as Code (IaC):
 
     Introduction to Infrastructure as Code.
     Hands-on experience with tools like Terraform or Ansible.
     Defining and managing infrastructure for the MIDI file website.
 
-5. Containerization:
+6. Containerization:
 
     Docker basics and containerization concepts.
     Creating Docker images for the application.
     Docker Compose for local development and testing.
 
-6. Orchestration and Scaling:
+7. Orchestration and Scaling:
 
     Introduction to container orchestration (e.g., Kubernetes).
     Deploying the application using Kubernetes.
     Implementing scaling strategies.
 
-7. Continuous Deployment (CD):
+8. Continuous Deployment (CD):
 
     Extending CI/CD pipelines to cover deployment.
     Implementing automated deployment strategies.
     Canary releases and blue-green deployments.
 
-8. Monitoring and Logging:
+9. Monitoring and Logging:
 
     Implementing logging and monitoring solutions.
     Introduction to tools like Prometheus, Grafana, ELK stack.
     Setting up alerts and dashboards for the application.
 
-9. Collaborative Tools and Communication:
+10. Collaborative Tools and Communication:
 
     Effective use of collaboration tools (e.g., Slack, Microsoft Teams).
     Utilizing project management tools (e.g., Jira, Trello).
     Conducting regular stand-up meetings and sprint planning.
 
-10. Security in DevOps:
+11. Security in DevOps:
 
     Security considerations in CI/CD pipelines.
     Regular security audits and vulnerability assessments.

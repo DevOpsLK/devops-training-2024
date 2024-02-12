@@ -114,3 +114,57 @@ Collaborative Project: MIDI File Website with Player
     Review the DevOps practices implemented during the project.
 
 This plan provides a structured approach to DevOps training while concurrently building a collaborative MIDI file website project. Adjustments can be made based on the team's experience level and specific project requirements.
+
+
+
+
+**Linux Training path**
+
+1. Linux Fundamentals:
+   
+    Introduction to Linux:
+        Basics of the Linux (history, architecture, and core components)
+        Essential Linux commands and command-line navigation.
+
+    Linux File System:
+        Linux file system hierarchy and navigate through directories, manipulate files, and manage permissions.
+    
+    User and Group Management:
+        Manage user accounts and groups.
+        Permission and Access controls.
+
+2. Shell Scripting:
+   
+    Bash Scripting:
+    - Scripting fundamentals, variables, control structures, functions, automate tasks.
+
+4. System Administration:
+   
+    Linux Administration:
+        Package management, Process management, System monitoring & Logs, Network configuration, Firewall management, and basic troubleshootings.
+      
+    Linux Networking:
+        Network interfaces, DHCP and DNS services, and troubleshoot network connectivity.
+
+4. Advanced Topics:
+
+    Security Hardening:
+        Linux security concepts and best practices, tools and techniques.
+
+    Virtualization and Containers:
+        Virtualization technologies
+   
+    Cloud Computing:
+        Deploy and manage Linux-based workloads in cloud environments
+
+5. Certification Preparation:
+
+    Linux Certifications:
+        Certifications paths (CompTIA Linux+, RHCSA, Linux Foundation Certified System Administrator).
+
+6. Continuous Learning:
+
+   Hands-on Practice:
+        Practice your Linux skills by working on projects, setting up virtual labs.
+
+   
